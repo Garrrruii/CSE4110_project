@@ -1,0 +1,11 @@
+drop table contract;
+drop table manage;
+drop table staff;
+drop table delivery;
+drop table warehouse;
+drop table ship_pack;
+drop table shipment;
+drop table bill;
+drop table receipt;
+drop table package;
+drop table customer;
